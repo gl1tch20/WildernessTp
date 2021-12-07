@@ -36,7 +36,7 @@ commands:
 permissions:
   wild.wildtp:
     description: Allows to use /wild (without arguments)
-    default: op
+    default: user 
 
   wild.wildtp.break.sign:
     description: Allows the player to break WildTp signs
